@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SantoshUppuluri](https://github.com/SantoshUppuluri)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **HTML,CSS,JavaScript,React,Pyhton**
 
 - 📫 How to reach me **saisantoshuppuluri@gmail.com**
 
