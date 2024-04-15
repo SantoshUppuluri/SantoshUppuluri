@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Uppuluri Eswara Venkata Phani Sai Santosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -6,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santoshuppuluri" alt="santoshuppuluri" /></a> </p>
 
+- 🔭 I’m currently working on **My Portfolio**
+
 - 🌱 I’m currently learning **tailwindcss**
+
+- 👯 I’m looking to collaborate on **Frontend project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SantoshUppuluri](https://github.com/SantoshUppuluri)
 
@@ -14,9 +17,11 @@
 
 - 📫 How to reach me **saisantoshuppuluri@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RgEkM6MPSpAQSB53xg_tElWRHeVrQ4Gl/view?usp=sharing](https://drive.google.com/file/d/1RgEkM6MPSpAQSB53xg_tElWRHeVrQ4Gl/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/uppuluri eswara venkata phani sai santosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uppuluri eswara venkata phani sai santosh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/uppuluri-eswara-venkata-phani-sai-santosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uppuluri-eswara-venkata-phani-sai-santosh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
